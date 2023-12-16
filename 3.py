@@ -1,4 +1,4 @@
-multiplikator = 1
+multiplikator = 123
 k = 0
 for i in range (1, 11):
     n = int(input())
